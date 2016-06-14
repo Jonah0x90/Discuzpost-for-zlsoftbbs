@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\OcrKing-master\CSharp\AvensLab.Service\AvensLab.Service\bin\Debug\NET2\AvensLab.Service.XML
+C:\Users\Administrator\Desktop\OcrKing-master\CSharp\AvensLab.Service\AvensLab.Service\bin\Debug\NET2\AvensLab.Service.dll
+C:\Users\Administrator\Desktop\OcrKing-master\CSharp\AvensLab.Service\AvensLab.Service\bin\Debug\NET2\AvensLab.Service.pdb
+C:\Users\Administrator\Desktop\OcrKing-master\CSharp\AvensLab.Service\AvensLab.Service\obj\Debug\AvensLab.Service.dll
+C:\Users\Administrator\Desktop\OcrKing-master\CSharp\AvensLab.Service\AvensLab.Service\obj\Debug\AvensLab.Service.pdb
+E:\svn\perhaps\PostMan\AvensLab.Service\bin\Debug\NET2\AvensLab.Service.XML
+E:\svn\perhaps\PostMan\AvensLab.Service\bin\Debug\NET2\AvensLab.Service.dll
+E:\svn\perhaps\PostMan\AvensLab.Service\bin\Debug\NET2\AvensLab.Service.pdb
+E:\svn\perhaps\PostMan\AvensLab.Service\obj\Debug\AvensLab.Service.dll
+E:\svn\perhaps\PostMan\AvensLab.Service\obj\Debug\AvensLab.Service.pdb
+E:\svn\perhaps\PostMan\AvensLab.Service\obj\Debug\AvensLab.Service.csprojResolveAssemblyReference.cache

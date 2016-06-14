@@ -1,0 +1,4 @@
+I:\PostMan\Public\bin\Debug\Public.dll
+I:\PostMan\Public\bin\Debug\Public.pdb
+I:\PostMan\Public\obj\Debug\Public.dll
+I:\PostMan\Public\obj\Debug\Public.pdb

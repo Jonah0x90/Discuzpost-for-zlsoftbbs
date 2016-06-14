@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\obj\Debug\PostMan.Console.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\obj\Debug\PostMan.Login.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\obj\Debug\PostMan.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\obj\Debug\PostMan.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\bin\Debug\PostMan.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\bin\Debug\PostMan.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\obj\Debug\PostMan.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PostMan\PostMan\obj\Debug\PostMan.pdb
+I:\PostMan\PostMan\obj\Debug\PostMan.exe
+I:\PostMan\PostMan\obj\Debug\PostMan.pdb
+I:\PostMan\PostMan\obj\Debug\PostMan.csprojResolveAssemblyReference.cache
+I:\PostMan\PostMan\obj\Debug\PostMan.Console.resources
+I:\PostMan\PostMan\obj\Debug\PostMan.Login.resources
+I:\PostMan\PostMan\obj\Debug\PostMan.Properties.Resources.resources
+I:\PostMan\PostMan\obj\Debug\PostMan.csproj.GenerateResource.Cache
+I:\PostMan\PostMan\bin\Debug\PostMan.exe
+I:\PostMan\PostMan\bin\Debug\PostMan.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\PostMan\PostMan\obj\Debug\PostMan.csprojResolveAssemblyReference.cache

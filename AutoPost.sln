@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPost", "PostMan\AutoPost.csproj", "{7254ACC6-2408-4176-A512-A7D443AE700F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function", "Public\Function.csproj", "{F2DC9C63-84FB-4C32-933D-67D2B6EDD70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvensLab.Service", "AvensLab.Service\AvensLab.Service.csproj", "{56CF3787-0ED8-4BE8-9D42-0419003B3FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7254ACC6-2408-4176-A512-A7D443AE700F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7254ACC6-2408-4176-A512-A7D443AE700F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7254ACC6-2408-4176-A512-A7D443AE700F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7254ACC6-2408-4176-A512-A7D443AE700F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DC9C63-84FB-4C32-933D-67D2B6EDD70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DC9C63-84FB-4C32-933D-67D2B6EDD70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DC9C63-84FB-4C32-933D-67D2B6EDD70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DC9C63-84FB-4C32-933D-67D2B6EDD70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CF3787-0ED8-4BE8-9D42-0419003B3FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CF3787-0ED8-4BE8-9D42-0419003B3FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CF3787-0ED8-4BE8-9D42-0419003B3FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CF3787-0ED8-4BE8-9D42-0419003B3FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
